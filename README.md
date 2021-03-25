@@ -1,6 +1,6 @@
 Hello my name is Orizon's!
 
-I'm new to python a lot of help will be happy!
+I'm new to python and javascript a lot of help will be happy!
 
 My networks
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
