@@ -1,3 +1,5 @@
-Hello my name is Orizon's!
+DotNet,
 
-I'm new to python and javascript a lot of help will be happy!
+![Discord Shield](https://discordapp.com/api/guilds/1123712344468496384/widget.png?style=shield)
+
+Owner of Minecraft Legacy Garbage.
